@@ -12,11 +12,6 @@
 const rentals = [
   {
     description:
-      "Experience the unique beauty of the desert in this stylish home with a private pool and stunning sunset views.",
-    isAvailable: true,
-  },
-  {
-    description:
       "Relax in this comfy cabin in the mountains with a fireplace and beautiful views of the hills.",
     isAvailable: false,
   },
